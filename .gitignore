@@ -1,3 +1,5 @@
 .DS_Store
 demo/demo/
 demo/doc/
+test/demo/
+test/doc

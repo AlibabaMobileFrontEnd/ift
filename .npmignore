@@ -3,6 +3,7 @@
 .git*
 .svn*
 Makefile
-docs/
+doc/
 demo/demo/
 demo/doc/
+node_modules
